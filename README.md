@@ -1,6 +1,6 @@
 # CheckPoint1
 
-## Exercice 1 
+## Exercice 1 : debian et partitions
 
 Comme demandé voici les preuves pour valider cette partie.
 
