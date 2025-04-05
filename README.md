@@ -12,7 +12,7 @@ Comme demandé voici les preuves pour valider cette partie.
 
 ## Exercice 2 : script
 
-ca sera pour plus atrd hein 
+![fichier du script](addUsers.sh)
 
 
 ## Exercice 3 : questions 
