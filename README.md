@@ -10,9 +10,15 @@ Comme demandé voici les preuves pour valider cette partie.
 ![quatrieme image](history.png)
 
 
+
+
 ## Exercice 2 : script
 
 ![fichier du script](addUsers.sh)
+
+
+
+
 
 
 ## Exercice 3 : questions 
